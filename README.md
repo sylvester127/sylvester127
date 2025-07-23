@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Naram Kim</h1>
-
+<h1 align="center">👨‍💻 Full-Stack Developer | Tech Enthusiast</h1>
 <p align="center">
-  A passionate developer who enjoys learning, solving problems, and building practical software.<br/>
-  Welcome to my GitHub profile!
+  Passionate about building scalable web applications and exploring new technologies.
 </p>
 
 ---
@@ -11,33 +9,34 @@
 
 | Category | Repository | Description |
 |----------|------------|-------------|
-| 🔢 Algorithm | [Study_Algorithm](https://github.com/sylvester127/Study_Algorithm) | Coding problem-solving and data structure practice |
-| 🕸️ Web Frontend | [Study_React](https://github.com/sylvester127/Study_React) | Practicing React and frontend development |
-| ☕ Backend | [sample_spring](https://github.com/sylvester127/sample_spring) | Backend development using Spring Framework |
+| 🔢 Algorithm | [Study_Algorithm](https://github.com/sylvester127/Study_Algorithm) | Solving coding problems and learning data structures |
+| 🌐 Web | [Study_React](https://github.com/sylvester127/Study_React) | Practicing React and building web interfaces |
+| ☕ Backend | [sample_spring](https://github.com/sylvester127/sample_spring) | Spring-based project template for quick backend setup |
 | 🤖 Automation | [Study_RPA_Prj](https://github.com/sylvester127/Study_RPA_Prj) *(Private)* | Java-based RPA project |
-| 🎮 Game Dev | [Study_ConsoleGame](https://github.com/sylvester127/Study_ConsoleGame) | Console RPG in C++ |
-| 🎬 Misc | [Study_Entertainment](https://github.com/sylvester127/Study_Entertainment) | Various creative and experimental projects |
-| 🧪 Toy Project | [Arthropods](https://github.com/sylvester127/Arthropods) | Java toy project to practice OOP and design concepts |
+| 🎮 Game (C/C++) | [Study_ConsoleGame](https://github.com/sylvester127/Study_ConsoleGame) | Console games developed in C and C++ for learning purposes |
+| 🎮 Game (Unreal) | [Study_Entertainment](https://github.com/sylvester127/Study_Entertainment) | Game project created during an Unreal Engine course |
+| 📱 Mobile (Android) | [Arthropods](https://github.com/sylvester127/Arthropods) | Native Android toy project developed with Java |
+
 
 ---
 
-## 🛠 Additional Study Projects *(Private)*
+## 🧪 Additional Project
 
 > These are additional repositories used for learning and experimentation:
 
-- `CookPrj`: JavaScript practice project  
-- `PrjFL`: C# practice for desktop applications  
-- `ProjectM`: Initially planned as a game app, later discontinued (recorded for learning purposes)
+- `ProjectM` *(Private)*: A mobile game app developed using Unity. Though the project was not completed, it served as a meaningful learning experience in game development and app structuring.
 
 ---
 
 ## 💻 Tech Stack
 
-- **Languages**: Java, JavaScript, C++, C#, SQL
-- **Frameworks**: Spring Framework, React, Pro*C, Delphi
-- **Databases**: Oracle DB, PL/SQL
+- **Languages**: Java, JavaScript, C, C++, C#, Python, SQL, PL/SQL, Pro*C, Delphi
+- **Frameworks**: Spring Framework, Spring Boot, React, jQuery, Bootstrap
+- **Databases**: Oracle DB, MySQL
+- **Tools**: Git, GitHub, IntelliJ, Eclipse, VS Code, Visual Studio, Unity, Unreal Engine
+- **Build Tools**: Maven, Gradle
+- **Data Access**: JDBC, Pro*C
 - **Automation Tools**: RPA (A.Works, Automation Anywhere)
-- **Tools**: Git, GitHub, IntelliJ, Eclipse, VS Code
 
 ---
 
@@ -45,7 +44,7 @@
 
 - 🏦 **Core Banking System Operation**: Developed and maintained systems at a savings bank using Pro\*C, Delphi, and Oracle  
 - 🧾 **Internal Tools**: Built and maintained menus for internal use, handled data extraction and report automation  
-- 🧰 **Frontend Development**: Participated in building a customer request system using Java + Spring, componentized frontend UI  
+- 🧰 **Full-stack Development**: Built a customer request system using Java + Spring, including backend logic and componentized frontend UI
 - 🤖 **RPA Migration & Development**: Led RPA migration project from Automation Anywhere to A.Works
 
 ---
@@ -54,11 +53,6 @@
 
 - 🎯 Continuously improving through real-world learning and side projects
 - 💬 Enjoys clean code, structured design, and steady growth
-- 📫 Contact: **sylvester127@naver.com**
+- 📫 Contact: **sylvester0279@gmail.com**
 
 ---
-
-## 🔗 Study Hub
-
-👉 Check out my [Study Hub](https://github.com/YOUR_HUB_REPO_LINK) for a full collection of learning repositories.  
-_(Replace with your actual link!)_
